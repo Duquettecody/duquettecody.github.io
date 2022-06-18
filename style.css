@@ -1,0 +1,32 @@
+body{
+    background-image: url(./Savin-NY-Website-Background-Web1.jpeg);
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.title{
+    background-color: #ffffffdd;
+    margin: 0 auto;
+    text-align: center;
+    width:55%;
+    border-radius: 10px;
+    border: 1px solid #000000;
+}
+
+.card{
+    display: flex;
+    width:50%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffffdd;
+    margin: 30px auto;
+    Padding: 50px 0px;
+    border-radius: 10px;
+    border: 1px solid #000000;
+}
+
+#photoofme{
+    width:75%;
+    border-radius: 10px;
+}
